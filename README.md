@@ -1,3 +1,14 @@
-Im omen im an IT student and am interested in physics and computers. 
-I am able to work on both of my interests by making physics simulations. 
-If anybody is interested or has advise to give me I'm always interested in hearing.
+# Hi I'm Omen
+**`Indi-dev/IT-Student`**
+
+### Hi there 👋
+
+<!-- ![Profile views](https://gpvc.arturio.dev/Zwazel) -->
+
+ <br/>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=old0men&show_icons=true&theme=radical&count_private=true"/>
+
+<p>
+  <img alt="stats" width="500em" height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=old0men&theme=radical"/>
+  <img alt="stats" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=old0men&theme=radical&hide=html,tex&layout=compact"/>
+</p>
